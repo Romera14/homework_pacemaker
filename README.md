@@ -91,4 +91,5 @@ logging {
 }
 ```
 ![](https://github.com/Romera14/homework_pacemaker/blob/main/Снимок%20экрана%202022-12-06%20в%2019.31.03.png)
+
 Мне показалось что командой pcs config backup filename, он создает файл. Не понял как его посмотреть.
